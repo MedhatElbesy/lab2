@@ -6,3 +6,12 @@
 
 # To list all tags
 # git tag
+
+# To delete remote tag
+# git push origin --delete v1.0
+
+# To delete local tags
+# git tag -d v1.0
+
+![Ismail Yassin Image](https://images.mubicdn.net/images/cast_member/211812/cache-402283-1546945967/image-w856.jpg?size=800x)
+
